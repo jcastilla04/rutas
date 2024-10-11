@@ -28,3 +28,7 @@
   <script src="<?= SERVERURL ?>plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- AdminLTE App -->
   <script src="<?= SERVERURL ?>dist/js/adminlte.min.js"></script>
+
+<!-- SweetAlert-->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="<?= SERVERURL ?>dist/js/swalcustom.js"></script>
