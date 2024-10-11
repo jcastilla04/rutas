@@ -126,6 +126,34 @@
               <p>Dashboard</p>
             </a>
           </li>
+
+          <li class="nav-item">
+            <a href="<?= SERVERURL ?>views/Clientes/listar-cliente" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>Clientes</p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="<?= SERVERURL ?>views/Productos/listar-producto" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>Productos</p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="<?= SERVERURL ?>views/Usuarios/listar-usuario" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>Usuarios</p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="<?= SERVERURL ?>views/Ventas/listar-venta" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>Ventas</p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
